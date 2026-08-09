@@ -3,7 +3,7 @@
 Firmware for **SegwayRC**, a two-wheel self-balancing RC robot.
 Arduino Nano · MPU-6050 · 2× NEMA 17 driven by TB6600 drivers.
 
-📦 **3D model, bill of materials and assembly instructions:** [SegwayRC on MakerWorld](INCOLLA-QUI-IL-LINK)
+📦 **3D model, bill of materials and assembly instructions:** [SegwayRC on MakerWorld]([INCOLLA-QUI-IL-LINK](https://makerworld.com/it/models/3152173-segwayrc-arduino-nano-self-balancing-rc-robot#profileId-3560848))
 
 ---
 
