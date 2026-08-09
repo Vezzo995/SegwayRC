@@ -5,6 +5,8 @@ Arduino Nano · MPU-6050 · 2× NEMA 17 driven by TB6600 drivers.
 
 📦 **3D model, bill of materials and assembly instructions:** [SegwayRC on MakerWorld](https://makerworld.com/it/models/3152173-segwayrc-arduino-nano-self-balancing-rc-robot#profileId-3560848)
 
+<img width="467" height="491" alt="image" src="https://github.com/user-attachments/assets/95a7a747-e1b1-4eee-8bab-7a10ec5e3d10" />
+
 ---
 
 ## What it does
